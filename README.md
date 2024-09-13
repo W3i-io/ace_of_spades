@@ -7,5 +7,6 @@ Added features:
 - Maximum deal requests per hour
 - Download disk space threshold to pause deal making
 - frc segment files download function
+- Additional error handling for API errors 
 
 Installation: see original repo
